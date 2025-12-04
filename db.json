@@ -1,0 +1,85 @@
+{
+  "frutas": [
+    {
+      "nome": "Maçã",
+      "descricao": "Fruta doce e crocante",
+      "preco": 2.5,
+      "quantidade": 10,
+      "categoria": "Doce",
+      "imagem": "https://viverbem.unimed.coop.br/wp-content/uploads/2023/02/86-beneficios-da-maca.jpg",
+      "id": "1"
+    },
+    {
+      "nome": "Banana",
+      "descricao": "Rica em potássio",
+      "preco": 1.8,
+      "quantidade": 20,
+      "categoria": "Doce",
+      "imagem": "https://img.freepik.com/vetores-gratis/vector-de-banana-amarela-madura-isolada-em-fundo-branco_1284-45456.jpg?semt=ais_hybrid&w=740&q=80",
+      "id": "2"
+    },
+    {
+      "nome": "Goiaba",
+      "descricao": "A frutinha mais cheia de proteina",
+      "preco": 5,
+      "quantidade": 30,
+      "categoria": "Semi-ácida",
+      "imagem": "https://image.tuasaude.com/media/article/1b/bc/beneficios-da-goiaba_13191.jpg?width=686&height=487",
+      "id": "163b"
+    },
+    {
+      "nome": "Ameixa",
+      "descricao": "Roxa e azeda",
+      "preco": 15,
+      "quantidade": 5,
+      "categoria": "Semi-ácida",
+      "imagem": "https://cdn.awsli.com.br/2500x2500/18/18885/produto/158985432/3d129c228c.jpg",
+      "id": "ac05"
+    },
+    {
+      "nome": "Caju",
+      "descricao": "Fruta carnuda e nutritiva",
+      "preco": 8.5,
+      "quantidade": 9,
+      "categoria": "Doce",
+      "imagem": "https://s2-globorural.glbimg.com/h6x4Ck9yhcTG2vjQgb8w7t5wrZI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_afe5c125c3bb42f0b5ae633b58923923/internal_photos/bs/2024/e/T/iaqB4fRuO5qkVM0vLhGw/caju3.jpg",
+      "id": "6a50"
+    },
+    {
+      "nome": "Melancia",
+      "descricao": "Doce e hidratante",
+      "preco": 6,
+      "quantidade": 15,
+      "categoria": "Hiper-Hídrica",
+      "imagem": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/05/melancia_01.jpg?w=1200&h=1200&crop=1",
+      "id": "5d1a"
+    },
+    {
+      "nome": "coco",
+      "descricao": "vem de coqueiro",
+      "preco": 2.5,
+      "quantidade": 40,
+      "categoria": "Oleaginosa",
+      "imagem": "https://abeso.org.br/wp-content/uploads/2021/08/coco.jpg",
+      "id": "9d60"
+    },
+    {
+      "nome": "uva",
+      "descricao": "é roxa",
+      "preco": 8,
+      "quantidade": 85,
+      "categoria": "Doce",
+      "imagem": "https://extrafruti.com.br/wp-content/uploads/2023/08/capa_.png",
+      "id": "4ae1"
+    },
+    {
+      "nome": "pera",
+      "descricao": "é verde",
+      "preco": 12,
+      "quantidade": 15,
+      "categoria": "Doce",
+      "imagem": "https://img.freepik.com/vetores-gratis/desenho-de-pera-verde-isolado_1308-127643.jpg?semt=ais_hybrid&w=740&q=80",
+      "id": "6398"
+    }
+  ]
+}
